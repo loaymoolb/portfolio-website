@@ -4,7 +4,7 @@ Just my personal website. I love it :)
 
 
 
-## 🔗 Link: [My Portfolio Website](https://olhachumak.site)
+## 🔗 Link: [My Portfolio Website](https://www.olhachumak.site)
 ## ![image](https://i.ibb.co/zGZ086t/image-2022-12-06-16-56-37.png)
 ## 🛠 Used tools:
 * **React** functional components and their reusability, folder and file structure, hooks, refs and more
